@@ -1,0 +1,66 @@
+.home-page {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: var(--primary-background-color);
+}
+
+.welcome-text {
+  width: 20em;
+}
+
+.shop {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+
+  padding: 20px;
+  justify-content: center;
+}
+
+.shop-button {
+
+  color: white;
+  background-color: var(--primary-color);
+  border: none;
+  padding: 15px;
+  border-radius: 10px;
+  justify-content: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.category-images {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+
+}
+
+.best-selling-text {
+  color: var(--primary-color);
+  padding: 10px;
+  text-align: left;
+}
+
+.category-image-items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 15px;
+  gap: 1em;
+}
+
+.category-image-items a {
+  text-align: center;
+  padding: 0 26px;
+
+}
+
+.category-image-items img:hover {
+
+  border: black;
+  border-width: 20px;
+  cursor: pointer;
+}

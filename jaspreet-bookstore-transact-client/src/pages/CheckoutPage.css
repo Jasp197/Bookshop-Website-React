@@ -1,0 +1,104 @@
+.checkout-page {
+  padding: 50px;
+  font-family: var(--default-font-family);
+  background-color: var(--primary-background-color);
+}
+
+  .checkout-page h1{
+
+    font-family: var(--title-font-family);
+    color: var(--category-color);
+    text-align: left;
+    padding-bottom: 0.6em;
+  }
+
+  .checkout-page-body {
+    display: flex;
+    padding: 1em;
+  }
+  
+  .checkout-page form {
+    display: flex;
+    flex-direction: column;
+
+  }
+  
+  .checkout-page-form-and-details {
+    display: flex;
+    flex-direction: column;
+    margin-left: 3em;
+
+  }
+
+  .checkout-page form > div {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 0.6em;
+  }
+  
+  .checkout-page form > div > input,
+  .checkout-page form > div select {
+    background-color: var(--card-background-color);
+    margin-left: 0.5em;
+    border: 1px solid black;
+    border-radius: 3px;
+  }
+
+  .checkout-page form > div select{
+    cursor: pointer;
+  }
+  
+  .checkout-page form > .error {
+    color: red;
+    text-align: right;
+  }
+
+  .checkout-page form > button {
+    color: white;
+    width: 13em;
+    background-color: var(--primary-color);
+    border: none;
+    padding: 12px;
+    border-radius: 10px;
+    justify-content: right;
+    align-self: center;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 2em 2em .5em;
+    transition: transform 0.3s;
+  }
+
+  .checkout-page form > button:hover {
+    transform: scale(1.05);
+  }
+
+  .checkout-page form > button:disabled {
+    background-color: #C00A0A;
+    color: #999999;
+    cursor: not-allowed; /* Change cursor to not-allowed */
+    opacity: 0.7;
+    transform: none;
+  }
+
+  .checkout-page .checkout-details {
+    margin-top: 0.5em;
+  }
+
+  .checkout-page .checkoutStatusBox {
+    margin: 2em;
+    padding: 1em;
+  }
+
+  .checkout-field-error {
+    color: red;
+    text-align: right;
+    font-size: smaller;
+    font-style: italic;
+    margin-left: 1em;
+    margin-bottom: 0.2em;
+  }
+
+  .checkout-page .checkout-total-message{
+    font-size: 1.1em;
+    margin-top: 10px;
+  }
