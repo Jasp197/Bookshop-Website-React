@@ -7,13 +7,24 @@ The Book Nook is an e-commerce website where users can browse and purchase books
 ### Pages
 1. **Welcome Page**: The home page of the website, featuring a CTA button to shop for books. 
 
-<img src="assets/image-1.png" width="600">
+<img src="assets/image-1.png" width="700">
 
 2. **Category Page**: Displays books categorized by genres such as Classics, Sci-Fi, Romance, Action, and Mystery.
+
+<img src="assets/image-2.png" width="700">
+
 3. **Cart Page**: Shows the selected items in the user's cart, with options to adjust quantities or remove items.
+
+<img src="assets/image-3.png" width="700">
+
 4. **Checkout Page**: Allows users to enter their personal and billing details for the purchase.
+
+<img src="assets/image-4.png" width="700">
+
 5. **Confirmation Page**: Displays order confirmation details after a successful checkout.
-![Screenshot 2024-08-26 at 1 13 19 PM](https://github.com/user-attachments/assets/46f8212e-1843-4675-b148-a0eab491ad5e)
+
+<img src="assets/image-5.png" width="700">
+
 
 ### Technologies Used
 - **Frontend**: 
