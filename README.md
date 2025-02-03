@@ -7,7 +7,7 @@ The Book Nook is an e-commerce website where users can browse and purchase books
 ### Pages
 1. **Welcome Page**: The home page of the website, featuring a CTA button to shop for books. 
 
-<img src="https://github.com/user-attachments/assets/46f8212e-1843-4675-b148-a0eab491ad5e.png" width="300">
+<img src="https://private-user-images.githubusercontent.com/36183058/408930062-46f8212e-1843-4675-b148-a0eab491ad5e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg1NDgyMzUsIm5iZiI6MTczODU0NzkzNSwicGF0aCI6Ii8zNjE4MzA1OC80MDg5MzAwNjItNDZmODIxMmUtMTg0My00Njc1LWIxNDgtYTBlYWI0OTFhZDVlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjAzVDAxNTg1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkMmFiNDQyNGYxZmExM2Y3ODM0NGZiZGRjN2Y1NmJmYThkOGZjMzU3YWE2ZmJlZjEwOTZhMWM2MTI3NWMxMTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dbiflmB2VQC55zsaMxq4R__4OgqWSUnJgppHn3Pkels.png" width="300">
 
 2. **Category Page**: Displays books categorized by genres such as Classics, Sci-Fi, Romance, Action, and Mystery.
 3. **Cart Page**: Shows the selected items in the user's cart, with options to adjust quantities or remove items.
